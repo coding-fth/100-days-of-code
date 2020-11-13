@@ -28,6 +28,6 @@ I know that this is only ever going to get done in chunks and have also begun pr
 
 ***Addendum*** training doesn't count? Oh no :/
 Edited the rules, made me feel like less of a cheat, but still aim to continue progress.
-The link in the rules has made me think, and I would like to have some practical work for the next 98 days, so will need to think further.
+The link in the rules has made me think, it is inspiring to think that a project may develop my skills more than blindly following tutorials[How to get a developer job in less than a year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/) and I would like to have some practical work for the next 98 days, so will need to think further.
 
 **Link to work:** [2/100-days-of-progress](https://github.com/coding-fth/100-days-of-code/blob/master/log.md)
